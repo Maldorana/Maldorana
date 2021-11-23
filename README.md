@@ -28,7 +28,7 @@ I graduated from a Visual Communication bachelor's degree in France and worked a
 
 I learnt how to code at Makers Academy, a 16 weeks software development bootcamp, after being selected among nearly 100 applicants for the scholarship program.
 
-**Tech Skills** : Ruby, Ruby on Rails, Rspec, HTML, CSS, JavaScript, React, Jest, Node.js, Firebase, AWS, Bootstrap\
+**Tech Skills** : Ruby, Ruby on Rails, Rspec, HTML, CSS, JavaScript, Typescript, React, Jest, Node.js, Firebase, AWS, Bootstrap\
 **Design Skills** : Sketch, Photoshop, Illustrator, InDesign, After Effects
 
 ## Projects
