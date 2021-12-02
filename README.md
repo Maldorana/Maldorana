@@ -28,10 +28,13 @@ I graduated from a Visual Communication bachelor's degree in France and worked a
 
 I learnt how to code at **Makers Academy**, a 16 weeks software development bootcamp, after being selected among nearly 100 applicants for the scholarship program.
 
+
+**Foreign languages:** Native French speaker, conversational in Spanish\
 **Languages:** HTML - CSS - Ruby - JavaScript - Typescript - SQL\
 **Testing:** RSpec - Capybara - Jest - Jasmine - React Testing Library\
 **Frameworks, libraries and environments:** Bootstrap - React - Node.js - Ruby on Rails - Sinatra - Firebase - AWS\
-**Design softwares:** : Sketch - Illustrator - Photoshop - InDesign - After Effects
+**Design softwares:** : Sketch - Illustrator - Photoshop - InDesign - After Effects\
+**Methodologies:** Agile, Test Driven Development, UX & UI Design
 
 ## Projects
 
@@ -93,11 +96,6 @@ _Junior Graphic Designer_
 - I volunteered to take on 3 mentees, whom I've been supporting and teaching since before the start of their bootcamp and I am still helping them to that day.
 - At Makers, I would always take some time during group projects to show the others my process with HTML and CSS while styling a page since I had experience with that from my previous career and it's not something we work on a lot.
 
-#### Additional skills
-
-- Methodologies : Agile, Test Driven Development, UX & UI Design
-- Foreign languages : Native French speaker, conversational in Spanish
-
 ## Education
 
 #### Makers Academy (Jul '21 - Nov '21)
@@ -120,7 +118,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Hobbies and Interests
 
-- **Running** : I like to start my day with fresh air and a good run
-- **Writing** : I use my imagination to write all sorts of stories after a long hard day
-- **Video Games** : I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
-- **Property investor** : I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
+- **Video Games:** I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
+- **Writing:** I use my imagination to write all sorts of stories after a long hard day
+- **Property investor:** I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
