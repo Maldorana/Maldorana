@@ -56,20 +56,30 @@ For a complete list, see my [GitHub repositories](https://github.com/Maldorana?t
 **Careerjet** (Aug '16 - Oct '20)  
 _Product Designer_
 
-- Assist with the rebranding of the jobsite [Careerjet](https://www.careerjet.co.uk/)
+- Assist with the redesign and rebranding of all products, including the jobsite [Careerjet](https://www.careerjet.co.uk/).
 - Translate business model new direction into high quality, user centered design solutions.
+- Analyse results and market trends to produce and develop new innovative features, from concept and design through to production.
+- Production of sketches, wireframes, specs, guidelines and production-ready assets.
+- Test the product and work with developers to ensure the final product is aligned to the original vision.
 
 **Padawan Ltd** (Oct '15 - Jul '16)  
 _Junior Web Designer_
 
-- Successfully redesign the responsive version 2 of the website and mobile application from prototype to final product, including many new features.
-- Responsible for the social media (avatars, covers, newsfeeds), marketing (banners, landing pages, mailings), and corporate (newsletters, teaser investors, christmas card, organisational chart) designs.
+- Successfully redesign the responsive version 2 of the website and mobile application from prototype to final product, including many new features across 22 websites.
+- In charge of producing the marketing materials including fully responsive landing pages, banners, mailings, presentations and social media.
+- Responsible for corporate designs (newsletters, teaser investors and organisational chart).
+- In charge of the creation and localisation of all the motion design for the TV campaign, working alongside the creative agency and Padawan marketing team.
 
 **Peace One Day** (Aug '15 - Oct '15)  
 _Junior Graphic Designer_
 
-- Design of images for social media, banners and invitations for numerous events.
+- Design of images for social media, banners and email invitations for numerous events.
 - Creation of all promotionnal paper-based designs for the event (posters & flyers, banners, checkerboard, headband, stage mock-ups).
+- Creation and layout improvements of numerous documents and reports (brochures, guidelines, etc.).
+- Concept and creation of various motion design videos (beginning and end credits, animated logos).
+- Web design and content edition of websites using CMS such as Wordpress.
+- Design of professional presentations and data visualisations.
+- In charge of several events involving around 15 different artists and music bands, from negociating salaries and conditions to being on site to ensure the smooth run of the event.
 
 ## Skills
 
@@ -120,5 +130,5 @@ A 16-week intensive development bootcamp, focusing on :
 ## Hobbies and Interests
 
 - **Video Games:** I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
-- **Writing:** I use my imagination to write all sorts of stories after a long hard day
+- **Writing:** I've always used my imagination to write stories based on my favorite movies and series. [My stories](https://www.fanfiction.net/~maldorana)
 - **Property investor:** I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
