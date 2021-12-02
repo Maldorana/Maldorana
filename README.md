@@ -22,12 +22,11 @@
 
 ## About me
 
-I am a driven and passionate **Junior Full Stack Developer**, looking for a role where I can consolidate and extend my knowledge of programming and product development.
+I am a driven and passionate **Junior Full Stack Developer** with a BA in Visual communication and **5 years experience as a Product Designer** in London, during which I learnt the basics of front-end web development and working in an agile team.
 
-I graduated from a Visual Communication bachelor's degree in France and worked as a **Product Designer in London for 5 years**, during which I learnt the basics of front-end web development and working in an agile team.
+I became fascinated in web development during my time as a Product Designer and I realised coding actually suited me better as I’m a very logical person.
 
 I learnt how to code at **Makers Academy**, a 16 weeks software development bootcamp, after being selected among nearly 100 applicants for the scholarship program.
-
 
 **Languages:** HTML - CSS - Ruby - JavaScript - Typescript - SQL\
 **Testing:** RSpec - Capybara - Jest - Jasmine - React Testing Library\
@@ -130,5 +129,6 @@ A 16-week intensive development bootcamp, focusing on :
 ## Hobbies and Interests
 
 - **Video Games:** I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
-- **Writing:** I've always used my imagination to write stories based on my favorite movies and series. [My stories](https://www.fanfiction.net/~maldorana)
 - **Property investor:** I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
+- **Writing:** I've always used my imagination to write stories based on my favorite movies and series. [My stories](https://www.fanfiction.net/~maldorana)
+
