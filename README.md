@@ -28,13 +28,13 @@ I became fascinated in web development during my time as a Product Designer and 
 
 I learnt how to code at **Makers Academy**, a 16 weeks software development bootcamp, after being selected among nearly 100 applicants for the scholarship program.
 
-**Languages:** HTML - CSS - Ruby - JavaScript - Typescript - SQL\
-**Testing:** RSpec - Capybara - Jest - Jasmine - React Testing Library\
-**Frameworks, libraries and environments:** Bootstrap - React - Node.js - Ruby on Rails - Sinatra - Firebase - AWS
+**Languages:** HTML - CSS - JavaScript - Typescript - Ruby -  SQL\
+**Testing:** RSpec - Capybara - Jasmine - Jest - React Testing Library\
+**Frameworks, libraries and environments:** Sinatra - Ruby on Rails - Bootstrap - React - Node.js - Firebase - AWS
 
 **Foreign languages:** Native French speaker, conversational in Spanish\
 **Design softwares:** : Sketch - Illustrator - Photoshop - InDesign - After Effects\
-**Methodologies:** Agile, Test Driven Development, UX & UI Design
+**Methodologies:** Agile, Test Driven Development, UX & UI Design, User Research
 
 ## Projects
 
