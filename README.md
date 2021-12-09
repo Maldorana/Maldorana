@@ -86,7 +86,7 @@ _Junior Graphic Designer_
 
 - I started teaching myself HTML and CSS during my time as a Web Designer in order to produce live mockups of my designs.
 - Before the Makers Academy pre-course began, I taught myself how to use Ruby on Rails and completed several projects on my own.
-- For our final project at Makers, my team and me taught ourselves how to use React in order to develop our recipe website in under two weeks.
+- For our final project at Makers, my team and me taught ourselves how to use React, Firebase and the APIs necessary in order to develop our recipe website in under two weeks.
 - I landed my first job as a Junior Web Designer at Padawan Ldt after a 3 months internship by impressing the CEO with my versatility and eagerness to do research on any subject and learn independantly to complete efficiently any task, from launching social media campaigns to rendering motion design videos to a professional level for TV ads.
 
 #### Eager problem solver
